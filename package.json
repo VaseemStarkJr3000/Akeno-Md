@@ -1,6 +1,6 @@
 {
- "name": "miku-md",
- "description": "Multi Device Whatsapp Bot By Xeon",
+ "name": "Akeno-md",
+ "description": "Multi Device Whatsapp Bot By Vaseem",
  "version": "3.0.0",
  "main": "index.js",
  "type": "commonjs",
@@ -90,5 +90,5 @@
  "bugs": {
   "url": "https://github.com/DGXeon/CheemsBot-MD3/issues"
  },
- "homepage": "https://github.com/DGXeon/CheemsBot-MD3#readme"
+ "homepage": "https://github.com/VaseemStarkJr3000/Akeno-Md/blob/main/README.md"
 }
