@@ -1,8 +1,8 @@
 {
-  "name": "Miku-MD",
+  "name": "Akeno-MD",
   "description": "A whatsApp bot based on Baileys linrary with Multi Device support",
-  "repository": "https://github.com/FantoX001/Miku-MD",
-  "logo": "https://wallpapercave.com/wp/wp10524580.jpg",
+  "repository": "https://github.com/VaseemStarkJr3000/Akeno-Md.git",
+  "logo": "https://i.ibb.co/k3XtQGX/2703e396d2c7a4f904e58e7996be913a.jpg",
   "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
   "buildpacks": [
     {
